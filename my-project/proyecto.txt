@@ -1,0 +1,7 @@
+Aprovechando que es epoca de mundial, mi intencion de proyecto es hacer
+un "Prode" donde el abm esta relacionado con las personas que participan dia 
+a dia
+-----------------------------------
+2da opcion en la que habia pensado es una organizacion de torneo de futbol
+crear un torneo, dar de alta los equipos - jugadores
+
